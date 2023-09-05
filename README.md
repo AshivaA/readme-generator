@@ -14,6 +14,9 @@ N/A
 
 You only need to open a terminal in vs code, then type node index.js, press enter and answer the questions.
 
+![readme-generator](https://github.com/AshivaA/readme-generator/assets/136107176/f6ea911c-f7a5-4532-9fba-0b1636e0a097)
+
+
 ## Link to GitHub repository
 [GitHub Repo](https://github.com/AshivaA/readme-generator.git)
 
